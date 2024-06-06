@@ -1,0 +1,7 @@
+createApp({
+    data() {
+        return {
+            arrayEmail: [],
+        }
+    },
+})
